@@ -1,4 +1,4 @@
-#Toward the Trusted Medical Imaging AI: An Explainable Machine Learning Model for Schizophrenia Brain MRIs
+# Toward the Trusted Medical Imaging AI: An Explainable Machine Learning Model for Schizophrenia Brain MRIs
 Official repository for ExplainBrainROI Paper
 ##  📰 News
 
